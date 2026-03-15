@@ -1,0 +1,15 @@
+# 数据文件夹
+data/
+
+# 虚拟环境
+venv/
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter 笔记本的检查点
+.ipynb_checkpoints/
