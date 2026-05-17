@@ -1,0 +1,14 @@
+boto3
+opencv-python-headless
+duckdb
+geopandas
+matplotlib
+mercantile
+numpy
+pandas
+Pillow
+pyproj
+rasterio
+requests
+shapely
+tqdm
